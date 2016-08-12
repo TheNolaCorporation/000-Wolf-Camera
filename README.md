@@ -1,7 +1,4 @@
-# 狼-カメラ ( 98.50 Mhz )
-Ground Floor
-
-#Hashes ( Bytes: 33 )
+lines:1  words: 1  bytes: 33
 md2: 6e98e1c771ae5528a5763b1319912a32
 md4: ae9b882291c23023f87b1c925daa2849
 md5: e9bc405d452b0d03a211460b1bf9ab03
