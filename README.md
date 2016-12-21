@@ -72,3 +72,6 @@ haval160,5: 58245bdc0afcefabdce386e51a9de4d9a67eb66b
 haval192,5: 471ff22caea1abffeb0928e9dabd2ce0745d087be1ad84af
 haval224,5: 326c90c855cbd4bc05bb9f916729c8b002833e07aa34887b3df5599e
 haval256,5: 68f94ed2901b1c0e7ebc2b1eb4677aa51ac38753c3034042378cd35c90f2db04
+
+#And Remeber!
+![Alt text](images/banner.jpg?raw=true "Jah Bless")
