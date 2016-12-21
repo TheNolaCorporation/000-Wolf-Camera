@@ -2,6 +2,27 @@
 ##[26.23313234]
 ###親財団
 
+# The Okami-Camera Business Model Goes as follows
+1. All tickets for support shall be sent to our central shared email, thenola11@gmail.com
+     - So it's our priority email for the team so it's a jump-right-in method to help our client faster
+     - Basically the team gets the email and whoever is the most expericened tech will hop on the tickes
+     - If it's programming, server or database issues, I (as the CTO) will handle that task
+     - If it's web design updates it'll be picked up by the design team
+2. If it's a feature we will have to plan accordingly 
+
+3. Is our "You got this!" model
+    - So most of our sites are self services because our staff is stagnant
+    - We will set up a Content Management System to help you with simple do it yourself tasks such as:
+          - Updated product inventory
+          - Set prices
+          - Updated content text
+          - Change Images, etc.
+
+So that's it in a nutshell... So if any of this sounds confusing give me a ring, I'm practically available to talk around the clock so don't hesitate.
+
+Thanks Again,
+Floyd Miles III, Your Kind of CEO
+
 #ハッシュ ( バイト: 33 )
 md2: 6e98e1c771ae5528a5763b1319912a32
 md4: ae9b882291c23023f87b1c925daa2849
