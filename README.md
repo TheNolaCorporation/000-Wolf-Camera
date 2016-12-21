@@ -24,7 +24,7 @@ Anyways... I am the CEO but also the CTO. All issues and technical request team 
 So that's it in a nutshell... So if any of this sounds confusing give me a ring, I'm practically available to talk around the clock so don't hesitate.
 
 Thanks Again,
-Floyd Miles III, Your Kind of CEO
+Floyd Miles III - Your Kind of CEO
 
 ![Alt text](images/logo.png?raw=true "Corporate Logo")
 
