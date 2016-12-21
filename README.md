@@ -2,6 +2,9 @@
 ##[26.23313234]
 ###親財団
 
+#### Quick Aside: Heyyyyy D: Welcome Aboard! I'm your host Axiom! aka Your 'Kind of' CEO and CTO, Floyd Miles III
+Anyways... I am the CEO but also the CTO. All issues and technical request team are sent to our central email, thenola11@gmail.com, will be able balance the work load so I'll give just a quick model of our tech run down for maintenance agreements. 
+
 # The Okami-Camera Business Model Goes as follows
 1. All tickets for support shall be sent to our central shared email, thenola11@gmail.com
      - So it's our priority email for the team so it's a jump-right-in method to help our client faster
