@@ -5,7 +5,7 @@
 #### Quick Aside: Heyyyyy D: Welcome Aboard! I'm your host Axiom! aka Your 'Kind of' CEO and CTO, Floyd Miles III
 Anyways... I am the CEO but also the CTO. All issues and technical request team are sent to our central email, thenola11@gmail.com, will be able balance the work load so I'll give just a quick model of our tech run down for maintenance agreements. 
 
-# The Okami-Camera Business Model Goes as follows
+# I. The Okami-Camera Business Model Goes as follows
 1. All tickets for support shall be sent to our central shared email, thenola11@gmail.com
      - So it's our priority email for the team so it's a jump-right-in method to help our client faster
      - Basically the team gets the email and whoever is the most expericened tech will hop on the tickes
@@ -13,21 +13,22 @@ Anyways... I am the CEO but also the CTO. All issues and technical request team 
      - If it's web design updates it'll be picked up by the design team
 2. If it's a feature we will have to plan accordingly 
 
-3. Is our "You got this!" model
+3. "You got this!"
     - So most of our sites are self services because our staff is stagnant
     - We will set up a Content Management System to help you with simple do it yourself tasks such as:
           - Updated product inventory
           - Set prices
           - Updated content text
           - Change Images, etc.
+     - Of course we provide assistance when you reach an "Out of Our Control!" method approach
 
 So that's it in a nutshell... So if any of this sounds confusing give me a ring, I'm practically available to talk around the clock so don't hesitate.
 
-Thanks Again,
-Floyd Miles III - Your Kind of CEO
 
+# II. Corporate Logo
 ![Alt text](images/logo.png?raw=true "Corporate Logo")
 
+# III. Public Encryption is our specialty! D:
 #ハッシュ ( バイト: 33 )
 md2: 6e98e1c771ae5528a5763b1319912a32
 md4: ae9b882291c23023f87b1c925daa2849
@@ -73,5 +74,5 @@ haval192,5: 471ff22caea1abffeb0928e9dabd2ce0745d087be1ad84af
 haval224,5: 326c90c855cbd4bc05bb9f916729c8b002833e07aa34887b3df5599e
 haval256,5: 68f94ed2901b1c0e7ebc2b1eb4677aa51ac38753c3034042378cd35c90f2db04
 
-#And Remeber!
+# IV. Believe in something!
 ![Alt text](images/banner.jpg?raw=true "Jah Bless")
