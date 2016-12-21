@@ -2,8 +2,6 @@
 ##[26.23313234]
 ###親財団
 
-![Alt text](images/logo.png?raw=true "Corporate Logo")
-
 #### Quick Aside: Heyyyyy D: Welcome Aboard! I'm your host Axiom! aka Your 'Kind of' CEO and CTO, Floyd Miles III
 Anyways... I am the CEO but also the CTO. All issues and technical request team are sent to our central email, thenola11@gmail.com, will be able balance the work load so I'll give just a quick model of our tech run down for maintenance agreements. 
 
@@ -27,6 +25,8 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 
 Thanks Again,
 Floyd Miles III, Your Kind of CEO
+
+![Alt text](images/logo.png?raw=true "Corporate Logo")
 
 #ハッシュ ( バイト: 33 )
 md2: 6e98e1c771ae5528a5763b1319912a32
