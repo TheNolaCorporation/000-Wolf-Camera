@@ -42,7 +42,10 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 | Network Analyst             | @CharlesTheTroll  | The Troll    | [ OFF GRID: Phone Contact Policy ]
 | UI / UX Lead                | @DonutNinja       | The Ninja    | bmljay5sZWZhbnRl
 | Financial Consult           | @OGPurp           | The Wolf     | Des!/Blc6n
-| Structure Ananlyst          | @DrLee            | The Master   | ZnJhbmtsaW5hbGVl [ BLACK GRID: Priority Contact Policy ]
+| Structure Analyst           | @DrLee            | The Master   | ZnJhbmtsaW5hbGVl [ BLACK GRID: Priority Contact Policy ]
+| Task Manager                | @DrLenonard       | The Wolf     | [ BLACK GRID: Priority Contact Policy ]
+| Task Analyst                | @DK520            | The Crab     | [ OFF GRID: Priority Contact Policy ]
+| Project Consult             | @DRMain           | The Wolf     | [ BLACK GRID: Phone Contact Policy ]
 
 # IV. Public Encryption is our specialty! D:
 #ハッシュ ( バイト: 33 )
