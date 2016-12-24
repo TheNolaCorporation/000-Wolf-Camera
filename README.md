@@ -94,5 +94,9 @@ haval224,5: 326c90c855cbd4bc05bb9f916729c8b002833e07aa34887b3df5599e
 haval256,5: 68f94ed2901b1c0e7ebc2b1eb4677aa51ac38753c3034042378cd35c90f2db04
 
 # V. Believe in something!
-1. Keep Calm, CARRY ON!!! If you can't believe in something, believe in yourself!
+## Keep Calm, CARRY ON!!! If you can't believe in something, believe in yourself!
 ![Alt text](images/banner.jpg?raw=true "Jah Bless"&width=200)
+
+# VI. Employee Tax Information
+## Corporate Certification
+![Alt text](documents/tax.jpg?raw=true "EIN")
