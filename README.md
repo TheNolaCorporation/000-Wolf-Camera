@@ -29,7 +29,8 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 1. Just in case you need them for your documents and whatnot you can save the one below. It's located in the images directory.
 ![Alt text](images/logo.png?raw=true "Corporate Logo")
 
-# III. Our Corporate Structure
+# III. Know Your Team
+## Corporate Structure
 | Role                        | Handle            | Group        | Contact
 | --------------------------- |------------------ | ------------ | -----
 | Cheif Executive Officer     | @Ἀξίωμα           | The Wolf     | thenola11@gmail.com
@@ -46,6 +47,29 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 | Task Manager                | @DrLenonard       | The Wolf     | [ BLACK GRID: Priority Contact Policy ]
 | Task Analyst                | @DK520            | The Crab     | [ OFF GRID: Priority Contact Policy ]
 | Project Consult             | @DRMain           | The Wolf     | [ BLACK GRID: Phone Contact Policy ]
+
+## Corporate Policies
+### Statues
+#### グリッドから外す: [ OFF GRID ]
+Team mates wishes that their business practices be non-disclosed
+#### ブラックグリッド: [ BLACK GRID ]
+Team mates are always on call but have low priority access
+#### 白いグリッド: [ WHITE GRID ]
+Team mates that are only associates and representatives of the company
+#### 赤いグリッド: [ RED GRID ]
+Team mates that are only allowed to colaborate with The Wolf: these are only allowed contracts with head office
+
+## Contact Policies
+### Contracts
+#### No Contact Policy
+No direct contact is allowed
+#### Direct Contact Policy
+Contact must be approved with the head office before proceding with a ticket
+#### Phone Contact Policy
+Contact must be handled over the phone ( these numbers are not disclosed ): Emails Deep or Live are not allowed
+#### Priority Contact Policy
+You don't need to contact them, they will contact you if there is a related ticket
+
 
 # IV. Public Encryption is our specialty! D:
 #ハッシュ ( バイト: 33 )
