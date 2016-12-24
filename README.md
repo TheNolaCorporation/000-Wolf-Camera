@@ -30,19 +30,19 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 ![Alt text](images/logo.png?raw=true "Corporate Logo")
 
 # III. Our Corporate Structure
-| Role              | Handle            | Group        | Contact
-| -------------     |-------------      | -----        | -----
-| Cheif Executive   | @Ἀξίωμα           | The Wolf     | thenola11@gmail.com
-| Cheif Financial   | @PacSun           | The Tiger    | fddaa0f9dd06d90a50f245158439ddee@mail2tor2zyjdctd.onion
-| Cheif Technician  | @BlackBear        | The Bear     | [OFF GRID : Dicrect Contact Policy ]
-| Project Manager   | A7]4ZBk8o-ARTI/3Ap| The Panther  | 10f08a8eb3242cd3abbc079550815d1f@mail2tor2zyjdctd.onion
-| Business Manager  | @WhyteBoi         | The Wolf     | @:="hAS5FoGQ 
-| Program Analyst   | @PatII            | The Wolf     | bG9yZW5rZXJy
-| Practice Review   | @AlohaSnackbar    | The Crab     | [OFF GRID: No Contact Policy]
-| Network Analyst   | @CharlesTheTroll  | The Troll    | [OFF GRID: Phone Contact Policy]
-| UI / UX Lead      | @DonutNinja       | The Ninja    | bmljay5sZWZhbnRl
-| Financial Consult | @OGPurp           | The Wolf     | Des!/Blc6n
-| Structure Ananlyst| @DrLee            | The Master   | ZnJhbmtsaW5hbGVl (Priofity Contact Policy)
+| Role                        | Handle            | Group        | Contact
+| --------------------------- |------------------ | ------------ | -----
+| Cheif Executive Officer     | @Ἀξίωμα           | The Wolf     | thenola11@gmail.com
+| Cheif Financial Officer     | @PacSun           | The Tiger    | fddaa0f9dd06d90a50f245158439ddee@mail2tor2zyjdctd.onion
+| Cheif Technology Officer    | @BlackBear        | The Bear     | [OFF GRID : Dicrect Contact Policy ]
+| Project Manager             | A7]4ZBk8o-ARTI/3Ap| The Panther  | 10f08a8eb3242cd3abbc079550815d1f@mail2tor2zyjdctd.onion
+| Business Manager            | @WhyteBoi         | The Wolf     | @:="hAS5FoGQ 
+| Program Analyst             | @PatII            | The Wolf     | bG9yZW5rZXJy
+| Practice Review             | @AlohaSnackbar    | The Crab     | [OFF GRID: No Contact Policy]
+| Network Analyst             | @CharlesTheTroll  | The Troll    | [OFF GRID: Phone Contact Policy]
+| UI / UX Lead                | @DonutNinja       | The Ninja    | bmljay5sZWZhbnRl
+| Financial Consult           | @OGPurp           | The Wolf     | Des!/Blc6n
+| Structure Ananlyst          | @DrLee            | The Master   | ZnJhbmtsaW5hbGVl (Priofity Contact Policy)
 
 # IV. Public Encryption is our specialty! D:
 #ハッシュ ( バイト: 33 )
