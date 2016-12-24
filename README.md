@@ -31,7 +31,7 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 
 # III. Our Corporate Structure
 | Role              | Handle            | Group        | Contact
-| -------------     |:-------------:    | -----:       | -----:
+| -------------     |-------------      | -----        | -----
 | Cheif Executive   | @Ἀξίωμα           | The Wolf     | thenola11@gmail.com
 | Cheif Financial   | @PacSun           | The Tiger    | fddaa0f9dd06d90a50f245158439ddee@mail2tor2zyjdctd.onion
 | Cheif Technician  | @BlackBear        | The Bear     | [OFF GRID : Dicrect Contact Policy ]
