@@ -29,7 +29,20 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 1. Just in case you need them for your documents and whatnot you can save the one below. It's located in the images directory.
 ![Alt text](images/logo.png?raw=true "Corporate Logo")
 
-# III. Public Encryption is our specialty! D:
+# III. Our Corporate Structure
+1.   Cheif Executive     @Ἀξίωμα             ( The Wolf  ):      thenola11@gmail.com
+2.   Cheif Financial     @PacSun             ( The Tiger ):      fddaa0f9dd06d90a50f245158439ddee@mail2tor2zyjdctd.onion
+3.   Project Manager     A7]4ZBk8o-ARTI/3Ap  ( The Panther ):    10f08a8eb3242cd3abbc079550815d1f@mail2tor2zyjdctd.onion
+4.   Business Manager    @WhyteBoi           ( The Wolf ):       @:="hAS5FoGQ 
+5.   Program Analyst     @PatII              ( The Wolf ):       bG9yZW5rZXJy
+6.   Practice Review     @AlohaSnackbar      ( The Crab ):       [OFF GRID] (No Contact Policy)
+7.   Network Analyst     @CharlesTheTroll    ( The Troll ):      [OFF GRID] (Phone Contact Policy)
+8.   UI / UX Lead        @DonutNinja         ( The Ninja ):      bmljay5sZWZhbnRl
+9.   Financial Consult   @OGPurp             ( The Wolf ):       Des!/Blc6n
+10.  Structure Ananlyst  @DrLee              ( The Master ):     ZnJhbmtsaW5hbGVl (Priofity Contact Policy)
+11.  Cheif Technician    @BlackBear          ( The Bear ):       [OFF GRID] (Dicrect Contact Policy)
+
+# IV. Public Encryption is our specialty! D:
 #ハッシュ ( バイト: 33 )
 md2: 6e98e1c771ae5528a5763b1319912a32
 md4: ae9b882291c23023f87b1c925daa2849
@@ -75,6 +88,6 @@ haval192,5: 471ff22caea1abffeb0928e9dabd2ce0745d087be1ad84af
 haval224,5: 326c90c855cbd4bc05bb9f916729c8b002833e07aa34887b3df5599e
 haval256,5: 68f94ed2901b1c0e7ebc2b1eb4677aa51ac38753c3034042378cd35c90f2db04
 
-# IV. Believe in something!
+# V. Believe in something!
 1. Keep Calm, CARRY ON!!! If you can't believe in something, believe in yourself!
 ![Alt text](images/banner.jpg?raw=true "Jah Bless"&width=200)
