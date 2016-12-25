@@ -3,15 +3,15 @@
 ###親財団
 
 #### Quick Aside: Heyyyyy D: Welcome Aboard! I'm your host Axiom! aka Your 'Kind of' CEO, Floyd Miles III
-Anyways... I am the CEO but also the CTO. All issues and technical request team are sent to our central email, thenola11@gmail.com, will be able balance the work load so I'll give just a quick model of our tech run down for maintenance agreements. 
+Anyways... All issues and technical request team are sent to our central email, thenola11@gmail.com, will be able balance the work load so I'll give just a quick model of our tech run down for maintenance agreements. 
 
-# I. The Okami-Camera Business Model Goes as follows
+# I. The Ōkami - Kamera Business Model
 1. All tickets for support shall be sent to our central shared email, thenola11@gmail.com
      - So it's our priority email for the team so it's a jump-right-in method to help our client faster
      - Basically the team gets the email and whoever is the most expericened tech will hop on the tickes
      - If it's programming, server or database issues, I (as the CTO) will handle that task
      - If it's web design updates it'll be picked up by the design team
-2. If it's a feature we will have to plan accordingly 
+2. If it's a feature we will have to plan accordingly ( Required Team Collaboration )
 
 3. "You got this!"
     - So most of our sites are self services because our staff is stagnant
