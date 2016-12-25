@@ -71,7 +71,7 @@ Contact must be handled over the phone ( these numbers are not disclosed ): Emai
 You don't need to contact them, they will contact you if there is a related ticket
 
 ## Ticket Priorities
-### i: Wolfs, Pirates, and Samaurais
+### I: Wolfs, Pirates, and Samaurais
 This is an all hands on deck priority and must be handled ASAP
 ### 0: Wolfs, Panthers, and Crabs
 The ticket has been handed to a specialist and must handled with your collaboration team
@@ -79,9 +79,9 @@ The ticket has been handed to a specialist and must handled with your collaborat
 The ticket has a specialist assinged and will be proritized accordingly
 ### 2: Open Group
 The ticket has a specialist assigned but needs review by another specialist
-### 3. Open Assignment
+### 3: Open Assignment
 This ticket can be picked up by any specialist who has time to handle the situation
-### 4. Open Project
+### 4: Open Project
 The client has no ETC on the ticket so this may a potentail project and not a task
 
 
