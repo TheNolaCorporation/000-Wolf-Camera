@@ -46,7 +46,7 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 | Structure Analyst           | @DrLee            | The Master   | ZnJhbmtsaW5hbGVl [ BLACK GRID: Priority Contact Policy ]
 | Task Manager                | @DrLenonard       | The Wolf     | [ BLACK GRID: Priority Contact Policy ]
 | Task Analyst                | @DK520            | The Crab     | [ OFF GRID: Priority Contact Policy ]
-| Project Consult             | @DRMain           | The Wolf     | [ BLACK GRID: Phone Contact Policy ]
+| Project Consult             | @DocteurMaine     | The Wolf     | [ BLACK GRID: Phone Contact Policy ]
 
 ## Corporate Policies
 ### Statues
