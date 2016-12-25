@@ -40,7 +40,7 @@ So that's it in a nutshell... So if any of this sounds confusing give me a ring,
 | Business Manager            | @WhyteBoi         | The Wolf     | @:="hAS5FoGQ 
 | Program Analyst             | @PatII            | The Wolf     | bG9yZW5rZXJy
 | Practice Review             | @AlohaSnackbar    | The Crab     | [ OFF GRID: No Contact Policy ]
-| Network Analyst             | @CharlesTheTroll  | The Troll    | [ OFF GRID: Phone Contact Policy ]
+| Network Analyst             | @CharlesTheTroll  | The Troll    | [ RED GRID: Phone Contact Policy ]
 | UI / UX Lead                | @DonutNinja       | The Ninja    | bmljay5sZWZhbnRl
 | Financial Consult           | @OGPurp           | The Wolf     | Des!/Blc6n
 | Structure Analyst           | @DrLee            | The Master   | ZnJhbmtsaW5hbGVl [ BLACK GRID: Priority Contact Policy ]
